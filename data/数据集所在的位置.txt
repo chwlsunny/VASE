@@ -1,0 +1,12 @@
+dgx-1服务器
+Flickr8K数据集
+image: /raid/wenlong_workspace/code/vsepp_a_t_i/data/f8k/images
+audio: /raid/wenlong_workspace/code/vsepp_a_t_i/flickr_audio/wavs
+text: /raid/wenlong_workspace/code/vsepp_a_t_i/data/f8k
+
+Places数据集
+image: /raid/wenlong_workspace/code/vsepp_a_t_i/data/data/vision/torralba/deeplearning/images256 
+audio: /raid/wenlong_workspace/code/vsepp_a_t_i/data/PlacesAudio_400k_distro/wavs
+text: /raid/wenlong_workspace/code/vsepp_a_t_i/data/PlacesAudio_400k_distro/metadata
+
+环境的镜像在/raid/wenlong_workspace/wenlong_backup_v1.tar的位置

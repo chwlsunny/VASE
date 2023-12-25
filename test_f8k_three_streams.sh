@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python test_f8k_three_streams.py
